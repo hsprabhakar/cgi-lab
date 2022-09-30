@@ -1,0 +1,20 @@
+1) for env_key, env_value in os.environ.items():
+    env[env_key] = env_value
+
+2) QUERY_STRING
+
+3) HTTP_USER_AGENT
+
+4) <form method="POST" action="login.py">
+
+5) header += "Set-Cookie: logged=true; Max-Age=60\r\n"
+   header += "Set-Cookie: cookie=nom\r\n"
+
+6) 
+
+7) Cookies are used for saving data on the website so it
+remembers information about your visit. It can help with
+caching information and speeding up certain repetitive 
+processes and improve overall efficiency.
+
+8) https://github.com/hsprabhakar/cgi-lab
